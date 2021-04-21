@@ -1,6 +1,6 @@
 # Instances for Bin Packing Problem with Conflicts
 
-Repository containing newly generated datasets for the Bin Packing Problem with Conflicts (BPPC) that were considered in the paper "Costa, Luciano; Contardo, Claudio; Desaulniers, Guy; Yarkony, Julian. Stabilized column generation via the dynamic separation of aggregated rows" accepted to be published in INFORM Journal on Computing. 
+Repository containing newly generated datasets for the Bin Packing Problem with Conflicts (BPPC) that were considered in the paper "Costa, Luciano; Contardo, Claudio; Desaulniers, Guy; Yarkony, Julian. Stabilized column generation via the dynamic separation of aggregated rows" accepted to be published in INFORMS Journal on Computing. 
 
 These new instances, based on the traditional BPPC dataset introduced by Gendreau et al. (2004), contain arbitrary conflict graphs (ACGs) and were generated according to the procedure of Sadykov and Vanderbeck (2013). For more details on how the instances were generated, the interested reader is referred to the paper "Costa, Luciano; Contardo, Claudio; Desaulniers, Guy; Yarkony, Julian. Stabilized column generation via the dynamic separation of aggregated rows".
 
