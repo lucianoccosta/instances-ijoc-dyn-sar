@@ -1,6 +1,6 @@
 # Instances for Multi-Person Pose Estimation Problem
 
-Folder containing the datasets for the Multi-Person Pose Estimation Problem (MPPEP) that were considered in the paper "Costa, Luciano; Contardo, Claudio; Desaulniers, Guy; Yarkony, Julian. Stabilized column generation via the dynamic separation of aggregated rows" accepted to be published in INFORM Journal on Computing. The datasets have been proposed by Andriluka et al. (2014) but were made available in this repository for the convenience of the reader.
+Folder containing the datasets for the Multi-Person Pose Estimation Problem (MPPEP) that were considered in the paper "Costa, Luciano; Contardo, Claudio; Desaulniers, Guy; Yarkony, Julian. Stabilized column generation via the dynamic separation of aggregated rows" accepted to be published in INFORMS Journal on Computing. The datasets have been proposed by Andriluka et al. (2014) but were made available in this repository for the convenience of the reader.
 
 Each instance file is organized as follows:
 
