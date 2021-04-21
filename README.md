@@ -1,6 +1,6 @@
 # Instances
 
-Repository containing the datasets that were considered in the paper "Costa, Luciano; Contardo, Claudio; Desaulniers, Guy; Yarkony, Julian. Stabilized column generation via the dynamic separation of aggregated rows" accepted to be published in INFORM Journal on Computing. 
+Repository containing the datasets that were considered in the paper "Costa, Luciano; Contardo, Claudio; Desaulniers, Guy; Yarkony, Julian. Stabilized column generation via the dynamic separation of aggregated rows" accepted to be published in INFORMS Journal on Computing. 
 
 Each folder contains instances files, as well as a README file, for the following problems:
 
